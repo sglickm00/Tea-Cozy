@@ -1,0 +1,1 @@
+Tea Cozy website. Final Project for Week 4 of Codeacademy. Project goal was to practice using Box model and Flex Box aspects of HTML and CSS. 
